@@ -8,17 +8,17 @@ This project focuses on applying Principal Component Analysis (PCA) to Sentinel-
 - `README.md`: Project documentation.
 - `Complex-Engineering-Problem.ipynb`: Jupyter Notebook containing the Python code.
 
-Code Highlights
+## Code Highlights
 Opening and Displaying Images
 The project utilizes the rasterio library to open and display Sentinel-2 multispectral images. Image information such as the number of bands, width, and height is displayed.
 
-Data Preprocessing
+## Data Preprocessing
 The images are cropped and individual bands are stacked to create a 3D array. The code then displays each band using subplots and creates a grayscale image.
 
-PCA Dimensionality Reduction
+## PCA Dimensionality Reduction
 The 3D array is reshaped into a 2D array and standardized. PCA is applied to reduce dimensionality, and the optimal number of Principal Components (k) is determined by analyzing the mean squared error.
 
-Results
+## Results
 The final grayscale image after applying PCA is displayed. Additionally, a histogram of errors is generated, providing insights into the effectiveness of dimensionality reduction.
 
 ## Contributors
