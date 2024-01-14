@@ -24,7 +24,7 @@ The final grayscale image after applying PCA is displayed. Additionally, a histo
 ## Contributors
 - **[Lailoma Noor](https://github.com/lailomanoor)**
 - **[Itba Malahat](https://github.com/ItbaMalahat)**
-- **[Warda Farhan](link-to-contributor-3)**
+- **[Warda Farhan](https://github.com/Warda-F)**
 - **[Haya Noor](https://github.com/haya-noor)**
 
 Thank you for your valuable contributions!
